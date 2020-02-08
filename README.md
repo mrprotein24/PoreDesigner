@@ -1,3 +1,6 @@
+# (c) Ratul Chowdhury. Developed 2018. Costas Maranas Lab @PennState
+# Related article: Chowdhury, R., Ren, T., Shankla, M., Decker, K., Grisewood, M., Prabhakar, J., Baker, C., Golbeck, J.H., Aksimentiev, A., Kumar, M. and Maranas, C.D., 2018. PoreDesigner for tuning solute selectivity in a robust and highly permeable outer membrane pore. Nature communications, 9(1), pp.1-10. https://www.nature.com/articles/s41467-018-06097-1 
+
 # PoreDesigner
 
 This is an novel tool using the IPRO suite of programs that is capable of engineering constriction region of beta-barrel (and also alpha-helical) proteins to any desired pore size and make it hydrophobic. The hydrophobicity ensures high aqueous permeation rates of solutes of interest. The limit of attainable pore size is ~ 3 angstrom. This has been used to precisely tune Ompf (pore size 11 A) to any desired pore size between 3-10 A. The highly hydrophobicity of the resultant pores have been seen to access water permeation rates that are an order of magnitude higher than any reported aquaporin till date. A separate PoreAnalyzer module is also available to analyze the profile of any pore you might have.
