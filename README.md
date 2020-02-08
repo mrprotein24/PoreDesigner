@@ -1,5 +1,5 @@
-# (c) Ratul Chowdhury. Developed 2018. Costas Maranas Lab @PennState
-# Related article: Chowdhury, R., Ren, T., Shankla, M., Decker, K., Grisewood, M., Prabhakar, J., Baker, C., Golbeck, J.H., Aksimentiev, A., Kumar, M. and Maranas, C.D., 2018. PoreDesigner for tuning solute selectivity in a robust and highly permeable outer membrane pore. Nature communications, 9(1), pp.1-10. https://www.nature.com/articles/s41467-018-06097-1 
+(c) Ratul Chowdhury. Developed 2018. Costas Maranas Lab @PennState
+Related article: Chowdhury, R., Ren, T., Shankla, M., Decker, K., Grisewood, M., Prabhakar, J., Baker, C., Golbeck, J.H., Aksimentiev, A., Kumar, M. and Maranas, C.D., 2018. PoreDesigner for tuning solute selectivity in a robust and highly permeable outer membrane pore. Nature communications, 9(1), pp.1-10. https://www.nature.com/articles/s41467-018-06097-1 
 
 # PoreDesigner
 
